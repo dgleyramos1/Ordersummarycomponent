@@ -24,7 +24,7 @@ Users must be able to:
 
 ### Print Screen
 
-![Captura de Tela] (./images/capturadeteldesktop)
+![Captura de Tela] (./images/capturadeteldesktop.png)
 
 ### Links
 
