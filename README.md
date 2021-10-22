@@ -4,13 +4,13 @@ This is a solution to the [Order Summary Card Challenge in Frontend Mentor] (htt
 
 ## Index
 
-- [Overview] (# overview)
-  - [The challenge] (# o-challenge)
+- [Overview] (#overview)
+  - [The challenge] (#o-challenge)
   - [Screenshot] (#screenshot)
   - [Links] (#links)
-- [My process] (# my-process)
-  - [Created with] (integrated #)
-- [Author] (# author)
+- [My process] (#my-process)
+  - [Created with] (#integrated)
+- [Author] (#author)
 
 ** Note: Delete this note and update the index based on the sections you maintain. **
 
@@ -24,7 +24,7 @@ Users must be able to:
 
 ### Print Screen
 
-! [] (./images/capturadeteldesktop)
+! [Captura de Tela] (./images/capturadeteldesktop)
 
 ### Links
 
@@ -42,4 +42,4 @@ Users must be able to:
 
 ## Author
 
-- Frontend Mentor - [@dgleyramos1] (https://www.front//or.io/profile/dgleyramos1)
+- Frontend Mentor - [@dgleyramos1] (https://www.frontendmentor.io/profile/dgleyramos1)
