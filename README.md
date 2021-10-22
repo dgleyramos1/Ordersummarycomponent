@@ -28,8 +28,8 @@ Users must be able to:
 
 ### Links
 
-- Solution URL: [Add Solution URL Here] (https://your-solution-url.com)
-- Active Site URL: [Add Active Site URL Here] (https://your-live-site-url.com)
+- Solution URL: [Add Solution URL Here] (https://www.frontendmentor.io/solutions/sumario-ordem-com-flexbox-qwO2Lrf7X)
+- Active Site URL: [Add Active Site URL Here] (https://dgleyramos1.github.io/Ordersummarycomponent/)
 
 ## My process
 
