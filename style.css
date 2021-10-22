@@ -16,7 +16,7 @@ h1 {
 p {
     font-weight: 700;
     color: hsl(224, 23%, 55%);
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 
@@ -121,4 +121,13 @@ p {
 #cancelamento:hover {
     cursor: pointer;
     color: black;
+}
+
+@media (min-width: 360px) {
+    #price {
+        width: 90%;
+    }
+    #espacamento {
+        margin-left: 70px;
+    }
 }
