@@ -28,8 +28,8 @@ Users must be able to:
 
 ### Links
 
-- Solution URL: [Add Solution URL Here] (https://www.frontendmentor.io/solutions/summary-order-with-flexbox-lwW-fOaXS)
-- Active Site URL: [Add Active Site URL Here] (https://dgleyramos1.github.io/Ordersummarycomponent/)
+- Solution URL: (https://www.frontendmentor.io/solutions/summary-order-with-flexbox-lwW-fOaXS)
+- Active Site URL: (https://dgleyramos1.github.io/Ordersummarycomponent/)
 
 ## My process
 
