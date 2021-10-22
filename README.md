@@ -4,13 +4,13 @@ This is a solution to the [Order Summary Card Challenge in Frontend Mentor] (htt
 
 ## Index
 
-- [Overview] (#overview)
-  - [The challenge] (#o-challenge)
-  - [Screenshot] (#screenshot)
-  - [Links] (#links)
-- [My process] (#my-process)
-  - [Created with] (#integrated)
-- [Author] (#author)
+- [Overview](#overview)
+  - [The challenge](#o-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Created with](#integrated)
+- [Author](#author)
 
 ** Note: Delete this note and update the index based on the sections you maintain. **
 
@@ -24,12 +24,12 @@ Users must be able to:
 
 ### Print Screen
 
-! [Captura de Tela] (./images/capturadeteldesktop)
+![Captura de Tela] (./images/capturadeteldesktop)
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/summary-order-with-flexbox-lwW-fOaXS)
-- Active Site URL: (https://dgleyramos1.github.io/Ordersummarycomponent/)
+- Solution URL: [solução](https://www.frontendmentor.io/solutions/summary-order-with-flexbox-lwW-fOaXS)
+- Active Site URL: [Página](https://dgleyramos1.github.io/Ordersummarycomponent/)
 
 ## My process
 
@@ -42,4 +42,4 @@ Users must be able to:
 
 ## Author
 
-- Frontend Mentor - [@dgleyramos1] (https://www.frontendmentor.io/profile/dgleyramos1)
+- Frontend Mentor - [@dgleyramos1](https://www.frontendmentor.io/profile/dgleyramos1)
